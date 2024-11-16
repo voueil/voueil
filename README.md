@@ -4,6 +4,7 @@
 
 
 i am a Computer Science student with a knack for solving problems… and occasionally creating new ones (whoops!).
+
 Code is my superpower – but unfortunately, i still can’t get my coffee machine to run on Python, That said, i’m all about creating smarter solutions, exploring AI, and building stuff that actually works.
  ![snake gif](https://github.com/voueil/voueil/blob/output/github-contribution-grid-snake.gif)
 
