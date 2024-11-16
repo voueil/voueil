@@ -20,3 +20,17 @@ I'm Dareen Almutib
 <a href="http://www.github.com/voueil"><img src="https://github-readme-stats.vercel.app/api?username=voueil&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="voueil's GitHub stats" /></a>
 
 <a href="http://www.github.com/voueil"><img src="https://github-readme-streak-stats.herokuapp.com/?user=voueil&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=voueil&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=voueil&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=voueil&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
