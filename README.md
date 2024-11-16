@@ -3,7 +3,8 @@
 [![](https://visitcount.itsvg.in/api?id=voueil&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-Computer Science student with a knack for solving problems… and occasionally creating new ones (whoops!).
+i am a Computer Science student with a knack for solving problems… and occasionally creating new ones (whoops!).
+
 Code is my superpower – but unfortunately, I still can’t get my coffee machine to run on Python, That said, I’m all about creating smarter solutions, exploring AI, and building stuff that actually works.
  ![snake gif](https://github.com/voueil/voueil/blob/output/github-contribution-grid-snake.gif)
 
