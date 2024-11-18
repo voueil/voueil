@@ -23,8 +23,7 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=voueil&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### ✍️ Random Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> Inspirational Quote :
+<div align='center'>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&multiline=true&random=false&width=650&height=100&lines=Don't+forget+to+star+the+repositories+you+like;and+follow+me+for+more+updates ❤️" alt="Typing SVG" />
+</div>
