@@ -4,7 +4,7 @@
 [![](https://visitcount.itsvg.in/api?id=voueil&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, I'm Dareen </h1>
-<h3 align="center">A passionate Developer and a Computer Science student with a knack for solving problems… and occasionally creating new ones (whoops!).<br><br>Code is my superpower – but unfortunately, i still can’t get my coffee machine to run on Python, That said, i’m all about creating smarter solutions, exploring AI, and building stuff that actually works.
+<h3 align="center"> a Computer Science student with a knack for solving problems… and occasionally creating new ones (whoops!).<br><br>Code is my superpower – but unfortunately, i still can’t get my coffee machine to run on Python, that said, i’m all about creating smarter solutions, exploring AI, and building stuff that actually works.
 </h3>
 
  ![snake gif](https://github.com/voueil/voueil/blob/output/github-contribution-grid-snake.gif)
