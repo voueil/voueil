@@ -18,10 +18,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=voueil&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=voueil&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=voueil&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ![](https://github-contributor-stats.vercel.app/api?username=voueil&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-# <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> Inspirational Quote :
-<div align='center'>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&multiline=true&random=false&width=650&height=100&lines=Don't+forget+to+star+the+repositories+you+like;and+follow+me+for+more+updates ❤️" alt="Typing SVG" />
-</div>
