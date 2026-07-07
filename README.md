@@ -4,7 +4,7 @@
 [![](https://visitcount.itsvg.in/api?id=voueil&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, I'm Dareen </h1>
-<h3 align="center">passionate computer science student skilled in programming, algorithms, and software design
+<h3 align="center">passionate computer science fresh graduate skilled in programming, algorithms, and software design
 </h3>
 
  ![snake gif](https://github.com/voueil/voueil/blob/output/github-contribution-grid-snake.gif)
